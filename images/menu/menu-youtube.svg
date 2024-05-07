@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="menu-youtube.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="6.6291261"
+     inkscape:cy="14.407301"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2"><linearGradient
+       id="paint0_linear_89_8"
+       x1="30.5"
+       y1="0"
+       x2="30.5"
+       y2="65"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(54.749998,-41.749982)"><stop
+         stop-color="#6364FF"
+         id="stop1190" /><stop
+         offset="1"
+         stop-color="#563ACC"
+         id="stop1192" /></linearGradient></defs><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="path1320"
+       style="fill:#fafafa;fill-opacity:1;stroke-width:0.840037"
+       class="style-scope yt-icon"
+       d="m 16.00015,7.599614 c 0,0 -7.5055575,1.5e-5 -9.376485,0.501825 C 5.59042,8.378024 4.77841,9.190026 4.501825,10.223279 4.000015,12.094191 4,16.000004 4,16.000004 c 0,0 1.5e-5,3.906067 0.501825,5.777002 0.276585,1.033245 1.088595,1.845023 2.12184,2.121563 1.8709275,0.501832 9.376485,0.501817 9.376485,0.501817 0,0 7.50534,1.5e-5 9.376185,-0.501817 1.033245,-0.27654 1.8453,-1.088318 2.12184,-2.121563 C 28.000015,19.906071 28,16.000004 28,16.000004 c 0,0 -0.0023,-3.905813 -0.501825,-5.776725 C 27.221635,9.190026 26.40958,8.378024 25.376335,8.101439 23.50549,7.599629 16.00015,7.599614 16.00015,7.599614 Z m -2.402333,4.801207 6.235193,3.599753 -6.235193,3.599475 z" /></g></svg>
