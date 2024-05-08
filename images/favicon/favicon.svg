@@ -8,7 +8,7 @@
    height="16"
    viewBox="0 0 16 16"
    sodipodi:docname="favicon.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -17,21 +17,21 @@
      id="defs136" />
   <sodipodi:namedview
      id="namedview134"
-     pagecolor="#ffffff"
+     pagecolor="#626262"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
+     inkscape:deskcolor="#797979"
      showgrid="true"
-     inkscape:zoom="4.9448876"
-     inkscape:cx="15.268294"
-     inkscape:cy="0.20222907"
+     inkscape:zoom="8"
+     inkscape:cx="44.3125"
+     inkscape:cy="33.3125"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="g138">
     <inkscape:grid
@@ -40,12 +40,20 @@
        spacingx="10"
        spacingy="10"
        originx="0"
-       originy="0" />
+       originy="0"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g138">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1"
+       cx="8"
+       cy="8"
+       r="8" />
     <path
        sodipodi:type="star"
        style="fill:#ffffff;stroke:none;stroke-width:7.5"
@@ -61,6 +69,6 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 199.02912,367.07486 128.54664,242.64533 -14.458544,242.69662 58.059354,119.44224 -13.487665,-4.3782356 129.51271,-3.2030845 200.97088,-127.07486 271.45336,-2.6453262 414.45854,-2.6966238 341.94065,120.55776 413.48767,244.37824 270.48729,243.20308 Z"
-       transform="matrix(0.03237885,0,0,0.03237885,1.52423,4.114538)" />
+       transform="matrix(0.02428414,0,0,0.02428414,3.143172,5.0859032)" />
   </g>
 </svg>
